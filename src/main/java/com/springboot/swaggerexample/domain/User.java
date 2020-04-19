@@ -1,4 +1,4 @@
-package com.springboot.swaggerexample.resource;
+package com.springboot.swaggerexample.domain;
 
 import io.swagger.annotations.ApiModelProperty;
 
