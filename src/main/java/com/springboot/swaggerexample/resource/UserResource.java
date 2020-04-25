@@ -20,7 +20,7 @@ public class UserResource {
     public List<User> getUsers() {
 
         return Arrays.asList(
-                new User("Sumedh", 20000000L),
+                new User("Sumedh", 200000000L),
                 new User("Pruthviraj", 30000000L)
         );
     }
