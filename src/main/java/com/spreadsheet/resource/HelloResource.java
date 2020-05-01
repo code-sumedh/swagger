@@ -1,4 +1,4 @@
-package com.springboot.swaggerexample.resource;
+package com.spreadsheet.resource;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

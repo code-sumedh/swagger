@@ -1,4 +1,4 @@
-package com.springboot.swaggerexample.resource;
+package com.spreadsheet.resource;
 
 import io.swagger.annotations.Api;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.springboot.swaggerexample.domain.User;
+import com.spreadsheet.domain.User;
 
 import java.util.Arrays;
 import java.util.List;

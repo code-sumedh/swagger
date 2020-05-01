@@ -1,4 +1,4 @@
-package com.springboot.swaggerexample.domain;
+package com.spreadsheet.domain;
 
 import io.swagger.annotations.ApiModelProperty;
 

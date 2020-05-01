@@ -9,8 +9,8 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.swagger.springboot</groupId>
-	<artifactId>swagger-example</artifactId>
+	<groupId>com.app.spreadsheet</groupId>
+	<artifactId>spreadsheet-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
